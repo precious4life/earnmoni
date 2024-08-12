@@ -1,0 +1,10 @@
+@media  screen and (max-width: 640px) {
+    h1{
+        font-size: 17px;
+        padding-top: 90px;
+        padding-bottom: 40px;
+        text-align: center;
+    }
+    
+    
+}
